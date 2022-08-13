@@ -1,0 +1,9 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "lib": ["dom", "esnext"],
+    "outDir": "build",
+    "module": "esnext",
+    "moduleResolution": "nodenext"
+  }
+}
